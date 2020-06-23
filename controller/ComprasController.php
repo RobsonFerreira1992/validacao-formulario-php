@@ -12,7 +12,7 @@ if ($_POST) {
   $classe = $_POST['classe'];
   $adultos = $_POST['adultos'];
   $criancas = $_POST['criancas'];
-  $preco = "1.500,35";
+  $preco = "1.500,00";
 
   $nome = $_POST['nome'];
   $cpf_cnpj = $_POST['cpf_cnpj'];
